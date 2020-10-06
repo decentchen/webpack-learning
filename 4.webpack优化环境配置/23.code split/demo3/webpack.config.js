@@ -27,5 +27,5 @@ module.exports = {
       chunks: "all",
     },
   },
-  mode: "production",
+  mode: "development",
 };
